@@ -5,7 +5,7 @@ The dataset and challenge The WiDS Datathon dataset was created in collaboration
 
 The Process-flow steps followed in the python Note book "wids-datathon2022.ipynb" are mentioned below;
 
-### Step 0: Import Datasets
+### Step 0:### Import Datasets
 
 ### Step 1: EDA
 
