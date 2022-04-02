@@ -9,17 +9,17 @@ The Process-flow steps followed in the python Note book "wids-datathon2022.ipynb
 
 ##### Step 1: EDA
 
-### Step 2: Imputing the Null/Nan entries
+##### Step 2: Imputing the Null/Nan entries
 
-### Step 3: Training and fitting the initial Models
+##### Step 3: Training and fitting the initial Models
 
-### Step 4: Predicting and checking the Model accuracy
+##### Step 4: Predicting and checking the Model accuracy
 
-### Step 5: Checking the Feature importance
+##### Step 5: Checking the Feature importance
 
-### Step 6: Model tuning for prediction Accuracy improvement
+##### Step 6: Model tuning for prediction Accuracy improvement
 
-### Step 7: Predicting the Test data
+##### Step 7: Predicting the Test data
 
-### Step 8: Upload the submission
+##### Step 8: Upload the submission
 
